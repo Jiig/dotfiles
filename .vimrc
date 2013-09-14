@@ -1,4 +1,5 @@
 set nu
+imap jj <Esc>
 syntax on
 set ts=4
 set expandtab
