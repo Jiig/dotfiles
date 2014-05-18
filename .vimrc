@@ -1,5 +1,7 @@
 set nu
 imap jj <Esc>
+map <Enter> :tabn<enter>
+map <Tab> :tabp<enter>
 syntax on
 set ts=4
 set expandtab
