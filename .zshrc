@@ -10,9 +10,7 @@ ZSH_THEME="terminalparty"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias swtor="wine explorer /desktop=SW:TOR,1000x614 ~/.wine/drive_c/Program\ Files\ \(x86\)/Electronic\ Arts/BioWare/Star\ Wars\ -\ The\ Old\ Republic/launcher.exe"
-alias thunar="dbus-launch thunar"
-alias minecraft="java -jar ~/games/Minecraft.jar"
+alias tree="~/tree"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
